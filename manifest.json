@@ -1,0 +1,25 @@
+{
+  "name": "Typing Job Pro - Rahmotullah",
+  "short_name": "Typing Job Pro",
+  "description": "Bangla and English typing practice application by Rahmotullah",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e0e4e8",
+  "theme_color": "#1a237e",
+  "orientation": "portrait",
+
+  "lang": "bn",
+
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
